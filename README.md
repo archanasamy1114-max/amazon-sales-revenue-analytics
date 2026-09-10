@@ -57,6 +57,8 @@ The analysis includes SQL concepts such as:
 
 ## Power BI Dashboard
 
+![Amazon Sales Analytics Dashboard](dashboard.png)
+
 An interactive Power BI dashboard was created with the following KPIs:
 
 - Net Revenue: ₹71.67M
